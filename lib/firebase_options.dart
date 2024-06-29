@@ -69,11 +69,11 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyAM5ZedZ-_kvD3ZfmeKhAfUM8Sm_OJAvbw',
-    appId: '1:570344895287:ios:d74f4341f898f9421860b2',
+    appId: '1:570344895287:ios:f870ccc5d1b67b371860b2',
     messagingSenderId: '570344895287',
     projectId: 'poop-journal',
     storageBucket: 'poop-journal.appspot.com',
-    iosBundleId: 'rocks.app',
+    iosBundleId: 'rocks.poopjournal',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
