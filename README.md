@@ -1,4 +1,5 @@
-[![Codemagic build status](https://api.codemagic.io/apps/634f13d755659816e852900e/634f13d755659816e852900d/status_badge.svg)](https://codemagic.io/apps/634f13d755659816e852900e/634f13d755659816e852900d/latest_build)[![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Poop-Journal/app/CI/development)](https://github.com/Crazy-Marvin/MorningWood/actions)
+[![Codemagic build status](https://api.codemagic.io/apps/634f13d755659816e852900e/634f13d755659816e852900d/status_badge.svg)](https://codemagic.io/apps/634f13d755659816e852900e/634f13d755659816e852900d/latest_build)
+[![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Poop-Journal/app/CI/development)](https://github.com/Crazy-Marvin/MorningWood/actions)
 [![License](https://img.shields.io/github/license/Poop-Journal/app.svg)](https://github.com/Poop-Journal/app/blob/trunk/LICENSE)
 [![style: very good analysis](https://img.shields.io/badge/style-very_good_analysis-B22C89.svg)](https://pub.dev/packages/very_good_analysis)
 [![Last commit](https://img.shields.io/github/last-commit/Poop-Journal/app.svg?style=flat)](https://github.com/Poop-Journal/app/commits)
@@ -11,8 +12,9 @@
 [![Translation status](https://hosted.weblate.org/widgets/poop-journal/-/svg-badge.svg)](https://hosted.weblate.org/engage/poop-journal/)
 [![Known Vulnerabilities](https://snyk.io/test/github/Poop-Journal/app/badge.svg?targetFile=poop_journal/android/app/build.gradle)](https://snyk.io/test/github/Poop-Journal/app?targetFile=poop_journal/android/app/build.gradle)
 [![API](https://img.shields.io/badge/API-29%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=29)
-[![F-Droid](https://img.shields.io/f-droid/v/rocks.poopjournal.svg)](https://f-droid.org/en/packages/rocks.poopjournal/)
-[![Google Play](https://badgen.net/badge/icon/googleplay?icon=googleplay&label)](https://play.google.com/store/apps/details?id=rocks.poopjournal)
+[![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)](https://flutter.dev/)
+[![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase)](https://firebase.com/)
+[![Google Play](https://badgen.net/badge/icon/Google&nbsp;Play?icon=googleplay&label)](https://play.google.com/store/apps/details?id=rocks.poopjournal)
 [![Poop Journal Blog](https://img.shields.io/badge/Poop_Journal-Blog-yellowgreen?logo=wordpress)](https://poopjournal.rocks/blog/)
 
 # Poop Journal
@@ -23,12 +25,16 @@ Helps patients and people concerned with bodily health track various aspects rel
 - Log food intake
 - Add undertaken activities
 - Track frequence of toilet visits
+- Note when you shit in your pants
 - Level of discomfort
 - Record colour level
 - Capture images
 - Record sound of bowel movements (coming)
 - Select type from the Bristol stool chart (coming)
 - Social interaction and sharing (possible feature)
+
+<a href="https://play.google.com/store/apps/details?id=rocks.poopjournal">
+      <img alt="Get it on Google Play" src="https://user-images.githubusercontent.com/15004217/36810046-fa306856-1cc9-11e8-808e-6eb8a81783c7.png" height="100">
 
 # Contributing
 
@@ -45,4 +51,4 @@ Check out the [contribution guidelines](https://github.com/Poop-Journal/app/blob
 
 # License
 
-[MIT License](https://choosealicense.com/licenses/mit/)
+[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
