@@ -33,8 +33,9 @@ Helps patients and people concerned with bodily health track various aspects rel
 - Select type from the Bristol stool chart (coming)
 - Social interaction and sharing (possible feature)
 
-<a href="https://play.google.com/store/apps/details?id=rocks.poopjournal">
-      <img alt="Get it on Google Play" src="https://user-images.githubusercontent.com/15004217/36810046-fa306856-1cc9-11e8-808e-6eb8a81783c7.png" height="100">
+We focus on [Android](https://www.android.com/) but thanks to [Flutter](https://flutter.dev/) the app runs fine on [Web](https://flutter.dev/multi-platform/web), [Linux](https://flutter.dev/multi-platform/desktop), [iOS](https://www.apple.com/ios/), [Windows](https://www.windows.com), [macOS](https://www.apple.com/macos/) and many more platforms.
+
+<a href="https://play.google.com/store/apps/details?id=rocks.poopjournal"><img alt="Get it on Google Play" src="https://user-images.githubusercontent.com/15004217/36810046-fa306856-1cc9-11e8-808e-6eb8a81783c7.png" height="100"></a>
 
 # Contributing
 
