@@ -178,3 +178,4 @@ app.*.map.json
 firebase_options.dart
 google-services.json
 GoogleService.plist
+firebase-debug.log
